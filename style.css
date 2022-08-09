@@ -232,4 +232,5 @@ body {
 }
 .show{
     display: block;
+  overflow: hidden;
 }
